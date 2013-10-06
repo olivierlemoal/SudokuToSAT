@@ -4,18 +4,17 @@ SudokuToSAT
 Sudoku solver using minisat.
 
 
-
-
-
-
 Français
 --------
 
 
-Dépendance : minisat < http://minisat.se/ >
+### Dépendance 
+minisat < http://minisat.se/ >
 
 Le programme a été développé avec le langage Python dans sa branche 2.
-Usage : python sudoku.py <fichier grille à résoudre>
+### Utilisation 
+
+        python sudoku.py <fichier grille à résoudre>
 ou python2 selon la distribution.
 
 Le fichier contenant la grille doit être sous la forme suivante :
